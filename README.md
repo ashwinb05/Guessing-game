@@ -2,6 +2,9 @@
 
 A simple command-line number guessing game written in Python.
 
+## Project URL
+https://roadmap.sh/projects/number-guessing-game
+
 ## How to Play
 - The computer randomly selects a number between 1 and 100.
 - The player selects a difficulty level:
@@ -20,4 +23,6 @@ A simple command-line number guessing game written in Python.
 - Timer to track how long it takes to guess correctly
 - High score tracking per difficulty level
 - Option to play multiple rounds
+
+
 
